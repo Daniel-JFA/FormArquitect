@@ -32,7 +32,7 @@
         <label for="email">Email:</label>
         <input type="email" id="email" name="email" required>
         <br><br>
-        <input type="submit" value="Submit"> 
+        <input type="submit" value="Submit">
     </form>
 </body>
 
